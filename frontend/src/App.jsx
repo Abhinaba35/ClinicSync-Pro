@@ -93,7 +93,7 @@ export default function App() {
               ) : (
                 <div className="text-center mt-20">
                   <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                    Welcome to HealthCare Appointment AI
+                    Welcome to ClinicSync Pro
                   </h1>
                   <p className="text-slate-700 text-lg mb-8">
                     Login or register to book and manage appointments.
